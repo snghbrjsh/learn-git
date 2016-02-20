@@ -6,3 +6,4 @@ master checkin
 
 also modified in branch1
 
+stash changes
