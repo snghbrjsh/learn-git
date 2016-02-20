@@ -1,9 +1,15 @@
 version 1
 
 
+
 master checkin
 
 
 also modified in branch1
 
 stash changes
+
+also modified in branch1
+
+
+let's add something
