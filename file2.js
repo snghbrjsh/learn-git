@@ -4,4 +4,6 @@
 	// comments are here
 	// 15A commit
 
+	// this is quick fix
+
 })(window)
