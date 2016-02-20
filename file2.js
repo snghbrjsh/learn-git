@@ -3,4 +3,6 @@
 
 	// comments are here
 
+	// this is quick fix
+
 })(window)
