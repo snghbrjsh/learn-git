@@ -6,7 +6,7 @@ function helpers_voc_get_response(vocResponses, uid, question, answer, value, se
                    }
                }
            }
-
+// i am legend
            var obj = {};
            obj[question.get('id')] = {
                uniqueQuestionId: question.get('uniqueQuestionId'),
