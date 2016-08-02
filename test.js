@@ -25,16 +25,7 @@ function helpers_voc_get_response(vocResponses, uid, question, answer, value, se
            else if (answer && answer.hasValue('questionAnswerMappingId')) {
                obj[question.get('id')].questionAnswerMappingId = answer.get('questionAnswerMappingId');
            }
-
-B
-B
-B
-B
-B
-C
-C
-C
-		d
+	// no-changes-done
            vocResponses.push(obj);
            return vocResponses;
        },
